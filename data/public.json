@@ -1,0 +1,24 @@
+{
+  "name": "Petre Iulian Timis",
+  "roles": [
+    "Software Engineer",
+    "Java Developer",
+    "Salesforce Developer",
+    "DevOps & Cloud Enthusiast"
+  ],
+  "links": [
+    {
+      "name": "LinkedIn",
+      "url": "https://ro.linkedin.com/in/petre-iulian-timis-a1932468",
+      "icon": "linkedin"
+    },
+    {
+      "name": "Java Code Geeks",
+      "url": "https://examples.javacodegeeks.com/author/iulian-timis/",
+      "icon": "article"
+    }
+  ],
+  "siteUrl": "https://timis1.github.io/interactive-cv/",
+  "accessRequestForm": "https://formspree.io/f/xzezovjj",
+  "recaptchaSiteKey": ""
+}
